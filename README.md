@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dhakad.dj9580@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GpnRC_AzJXUwsxpuViyq_FZ_kOzEihcy/view?usp=sharing](https://drive.google.com/file/d/1GpnRC_AzJXUwsxpuViyq_FZ_kOzEihcy/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uNHd6Bw_yTSTwEakuPCVJgJXTE34qN6Y/view?usp=drivesdk
 
 - ⚡ Fun fact **I think i am mature**
 
