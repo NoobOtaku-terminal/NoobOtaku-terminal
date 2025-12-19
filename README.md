@@ -3,7 +3,7 @@
 <div align="center">
   
   <!-- Dynamic Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dheeraj%20Dhakad&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20DevOps%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Dheeraj%20dhakar&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20DevOps%20%7C%20Cloud%20Architect&descAlignY=55&descAlign=50" width="100%"/>
   
 </div>
 
@@ -13,7 +13,7 @@
   ╔══════════════════════════════════════════════════════════════════╗
   ║                                                                  ║
   ║     "In the world of code, I am the shadow that optimizes."     ║
-  ║                          - Dheeraj Dhakad                        ║
+  ║                          - Dheeraj dhakar                        ║
   ║                                                                  ║
   ╚══════════════════════════════════════════════════════════════════╝
   ```
@@ -223,7 +223,7 @@ const dheeraj = {
   | **Experience** | 8 months across Klimashift & PrimeWise |
   | **Core Skills** | AWS, Docker, Kubernetes, Python, Node.js |
   | **Achievements** | 250% API optimization, Full-stack AI ChatBot |
-  | **Contact** | dhakad.dj9580@gmail.com \| +91-7725949580 |
+  | **Contact** | dhakar.dj9580@gmail.com \| +91-7725949580 |
   
   </details>
   
@@ -235,9 +235,9 @@ const dheeraj = {
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheeraj-dhakad-9580-ok)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhakad.dj9580@gmail.com)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/dheeraj_dhakad)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheeraj-dhakar-9580-ok)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhakar.dj9580@gmail.com)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/dheeraj_dhakar)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://my-portfolio-rose-one-78.vercel.app/)
   
   <br/><br/>
