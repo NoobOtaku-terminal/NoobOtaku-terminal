@@ -19,9 +19,9 @@
 
 <!--Profile Views and GitHub Stats Badges-->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=noobotaku-terminal&label=Profile%20Views&color=8B5CF6&style=for-the-badge&logo=eye" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/noobotaku-terminal?label=Followers&style=for-the-badge&color=8B5CF6&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/noobotaku-terminal?label=Stars&style=for-the-badge&color=8B5CF6&logo=github" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=NoobOtaku-terminal&label=Profile%20Views&color=8B5CF6&style=for-the-badge&logo=eye" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/NoobOtaku-terminal?label=Followers&style=for-the-badge&color=8B5CF6&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/NoobOtaku-terminal?label=Stars&style=for-the-badge&color=8B5CF6&logo=github" alt="GitHub Stars" />
 </div>
 
 <br/>
@@ -37,7 +37,7 @@
 ║  "In the world of code, I am the shadow that optimizes systems,      ║
 ║   automates the impossible, and deploys dreams into production."     ║
 ║                                                                       ║
-║                            - Dheeraj Dhakar                           ║
+║                              - Dheeraj Dhakar                         ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
 ```
@@ -98,7 +98,7 @@ const dheerajDhakar = {
     
     askMeAbout: [
         "Cloud Architecture",
-        "Container Orchestration", 
+        "Container Orchestration",
         "CI/CD Best Practices",
         "Performance Optimization",
         "System Design",
@@ -180,7 +180,46 @@ while (alive) {
 
 <br/>
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NoobOtaku-terminal&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoobOtaku-terminal&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoobOtaku-terminal&theme=radical&hide_border=true" width="500px"/>
+</div>
+
+<br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-trophies.vercel.app/?username=NoobOtaku-terminal&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/NoobOtaku-terminal)
+
+</div>
+
+<br/>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NoobOtaku-terminal&theme=react-dark&hide_border=true&area=true&color=8B5CF6&line=8B5CF6&point=ffffff)](https://github.com/NoobOtaku-terminal)
+
+</div>
+
+<br/>
+
+---
 
 ## 🌟 Thought of the Day
 
@@ -195,15 +234,14 @@ while (alive) {
 ## 🤝 Connect With Me
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-noobotaku--terminal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noobotaku-terminal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheeraj-dhakar)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dheeraj_dhakar)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheeraj@iitj.ac.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://dheeraj-dhakar.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dheeraj.dhakar)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dheeraj_dhakar)
 
+[![GitHub](https://img.shields.io/badge/GitHub-NoobOtaku--terminal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NoobOtaku-terminal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dheeraj-dhakad-9580-ok/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dheeraj_dhakar)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhakad.dj9580@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://noobotaku-dheeraj.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/noob_otaku_dj?igsh=MXRvbWNmdjZ0N2QzaQ==)
+<!--[![Dev.to](https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dheeraj_dhakar)-->
 </div>
 
 <br/>
@@ -220,9 +258,7 @@ while (alive) {
 
 <br/>
 
-
 ---
-
 
 <div align="center">
 
@@ -241,8 +277,8 @@ while (alive) {
 </div>
 
 <div align="center">
-  
-### ⭐ From [noobotaku-terminal](https://github.com/noobotaku-terminal) with 💜
+
+### ⭐ From [NoobOtaku-terminal](https://github.com/NoobOtaku-terminal) with 💜
 
 *"Code is poetry, and deployment is the performance"*
 
